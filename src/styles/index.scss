@@ -1,0 +1,12 @@
+@import "./partial";
+
+// Pages
+@import "../pages/Home/Home";
+@import "../pages/Dashboard/Dashboard";
+@import "../pages/NotFound/NotFound";
+
+
+// Components
+@import "../components/Header/Header";
+@import "../components/Footer/Footer";
+@import "../components/Menu/Menu";
